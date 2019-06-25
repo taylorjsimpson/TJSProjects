@@ -1,0 +1,181 @@
+[33mcommit 31728a78473c59e04ece348ac8de45b908f0d1ec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Taylor J Simpson <taylorjsimpson18@gmail.com>
+Date:   Sun Jun 9 16:11:52 2019 -0400
+
+    turning in Pokemon Lab
+
+[33mcommit f1eda4df1c4d49516439aba73ef0d5a458141d3a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: J Beightol <jbeightol121@gmail.com>
+Date:   Mon Jun 3 10:46:31 2019 -0500
+
+    update lab
+
+[33mcommit 3dfc5501dfc46e2366a4dea5d0ab6e81614c4c69[m
+Author: Matt Brems <matthew.w.brems@gmail.com>
+Date:   Tue Mar 19 16:31:30 2019 -0400
+
+    added solutions
+
+[33mcommit 4dea5fa180039deb744bbdd09ef6efb71cef6b19[m
+Author: David Yerrington <david@yerrington.net>
+Date:   Mon Feb 25 01:17:53 2019 -0800
+
+    Initial checkin
+
+[33mcommit 40b02e8d74672dcb46db25da1f61b27edcfc5d5b[m
+Author: David Yerrington <david@yerrington.net>
+Date:   Tue Nov 20 10:05:37 2018 -0800
+
+    Revert "deleted solutions"
+    
+    This reverts commit f7e1bf8e22fc7e98549670820cff0811fcdf650b.
+
+[33mcommit f7e1bf8e22fc7e98549670820cff0811fcdf650b[m
+Author: Douglas Strodtman <dstrodtman@gmail.com>
+Date:   Fri Nov 2 16:49:08 2018 -0700
+
+    deleted solutions
+
+[33mcommit 7b183ea5cdf1f21e73d124c2578ce78d1be6b0b6[m
+Merge: 3bfabc7 09ee62a
+Author: rldaggie <riley.dallas@ga.co>
+Date:   Tue Aug 7 12:07:06 2018 -0500
+
+    Merge pull request #3 from dstrodtman/working
+    
+    major edits to pokemon lab
+
+[33mcommit 09ee62a282f7fc2681b1d440f1287cd4516d66f6[m
+Author: Douglas Strodtman <dstrodtman@gmail.com>
+Date:   Mon Aug 6 15:28:01 2018 -0700
+
+    major edits to pokemon lab
+
+[33mcommit 3bfabc786765141b818da1976dda2ad22ab09661[m
+Author: Riley Dallas <rldaggie@gmail.com>
+Date:   Fri Jul 27 14:26:47 2018 -0500
+
+    Changed file names
+
+[33mcommit 58b650c9c0173d5f9c950af37433c2665583731c[m
+Author: Riley Dallas <rldaggie@gmail.com>
+Date:   Fri Jul 27 14:23:35 2018 -0500
+
+    Add docker instructional video
+
+[33mcommit bc94c4f59799e7d23ec66aa2490035d4b40cf187[m
+Author: Riley Dallas <rldaggie@gmail.com>
+Date:   Fri Jul 27 14:12:47 2018 -0500
+
+    Add another ignore for docker
+
+[33mcommit 4c5f73843e35964326cdd76f6a38e38235bad2b5[m
+Author: Riley Dallas <rldaggie@gmail.com>
+Date:   Fri Jul 27 12:47:56 2018 -0500
+
+    ignore docker directories
+
+[33mcommit 61d1bbf82bd27094659570f8e684b6185d539915[m
+Author: Riley Dallas <rldaggie@gmail.com>
+Date:   Fri Jul 27 12:47:32 2018 -0500
+
+    Add csv to solution code
+
+[33mcommit a2a7ca5f00162a206dc951b2c1b0a1fd02e5cfcd[m
+Author: Riley Dallas <rldaggie@gmail.com>
+Date:   Fri Jul 27 12:41:21 2018 -0500
+
+    Add docker compose file
+
+[33mcommit 3f1490ea97abb73fd9ab95ff00230934f5e095b5[m
+Author: rldaggie <riley.dallas@ga.co>
+Date:   Wed Jul 25 14:39:58 2018 -0500
+
+    Add docker instructions
+
+[33mcommit 4885c6db9aed2c9cec7b1eaad41f9ec4a3ec00a6[m
+Author: David Yerrington <david@yerrington.net>
+Date:   Fri Jun 15 13:48:11 2018 -0700
+
+    Pokemon solution code
+
+[33mcommit 11717ddd3f7eb67511d8510172a469de3492936a[m
+Author: David Yerrington <david@yerrington.net>
+Date:   Fri Apr 27 16:23:53 2018 -0700
+
+    Rolling back accidental commit from Mark -- no worries\!
+
+[33mcommit e9540c14274bca411eaaceabeb269889618676f0[m
+Merge: f4d3cd0 81c5068
+Author: Sam Stack <stacksl138@gmail.com>
+Date:   Wed Jan 24 11:58:59 2018 -0700
+
+    Merge pull request #5 from dsi-plus-2/master
+    
+    Solution Code
+
+[33mcommit 81c5068b3c6469a39fd43d5ab6d2899512901939[m
+Merge: a327c1f 35a1d6b
+Author: Sam Stack <stacksl138@gmail.com>
+Date:   Wed Jan 24 11:56:52 2018 -0700
+
+    Merge pull request #2 from DSI-WEST-3/solutions
+    
+    Solutions
+
+[33mcommit 35a1d6b3266cb7f268370cb7a94d138f0cf0a693[m
+Author: samuel-stack <stacksl138@gmail.com>
+Date:   Wed Jan 24 11:55:28 2018 -0700
+
+    Updated ignore to ignore DS_Store
+
+[33mcommit f373729858f7321fed797ff6edc1bbce22d469e2[m
+Author: samuel-stack <stacksl138@gmail.com>
+Date:   Wed Jan 24 11:52:50 2018 -0700
+
+    Addeding comments to solution code
+
+[33mcommit fd51f06e8f9c417653dfdbfd78b3baa967899afb[m
+Author: samuel-stack <stacksl138@gmail.com>
+Date:   Wed Jan 24 11:52:24 2018 -0700
+
+    Addeding comments to solution code
+
+[33mcommit f4d3cd02759d71e08fb164f6a522077167c04b3f[m
+Author: David Yerrington <david@yerrington.net>
+Date:   Mon Jan 15 12:38:38 2018 -0800
+
+    Initial checkin of Pokemon lab material.  This is an extended lab and is ment to be completed over several days.
+
+[33mcommit a327c1f8f5f74356ffbd6dfc25bd51afa40e5872[m
+Merge: e15f386 fb26c4b
+Author: Michael Frantz <michael.frantz@generalassemb.ly>
+Date:   Sun Sep 24 13:59:33 2017 -0700
+
+    Merge pull request #1 from michaelgfrantz/master
+    
+    cleared cells
+
+[33mcommit fb26c4bd2755e53858bf3972e65627272a4f8683[m
+Author: Michael Frantz <michaelgfrantz@gmail.com>
+Date:   Sun Sep 24 13:57:27 2017 -0700
+
+    cleared cells
+
+[33mcommit e15f38650aefbac9b2a4b78a0a175f9b37cbe473[m
+Author: Michael Frantz <michaelgfrantz@gmail.com>
+Date:   Sun Sep 24 13:52:32 2017 -0700
+
+    ADD starter code and solution for 1.1-1.3 lab
+
+[33mcommit 4e3b0c912c11ed536bfce60b166553c3021f3d7e[m
+Author: mgfrantz <michaelgfrantz@gmail.com>
+Date:   Wed Sep 13 12:41:25 2017 -0700
+
+    updated readme.md
+
+[33mcommit 7f6e093aba3df4dc71d84ea1603ffdea801ddd68[m
+Author: mgfrantz <michaelgfrantz@gmail.com>
+Date:   Wed Sep 13 12:39:36 2017 -0700
+
+    initial commit with solutions
