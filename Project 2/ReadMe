@@ -1,0 +1,23 @@
+README 
+
+-Project Outline
+
+In this project I go through the Ames, Iowa dataset and talk to realtors of what features most influence the price of a home and make recommendations of how to best improve their profit margins. 
+
+-Problem Statements
+
+How should houses be appropriately priced?
+
+What features are most important to a house’s value?
+
+What models can be used to set up best chance for profitability for realtors?
+
+-Description of Data
+The data was provided by DSI instructors. 
+
+-Conclusion 
+
+Tell homeowners to invest in quality and add square footage
+Always consider neighborhood before agreeing to take on client
+Use this model to set your expected price
+Consider external factors like market conditions and housing comps, and set a stretch price and lowest acceptable price

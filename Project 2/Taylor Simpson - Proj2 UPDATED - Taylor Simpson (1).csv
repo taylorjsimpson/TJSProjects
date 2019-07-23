@@ -1,0 +1,29 @@
+,,5,,
+,Project1 Grading,6/28/2019,"WRS, MTG",
+,Student:,Taylor Simpson,,
+,Category,Score,Notes,CHANGES
+The Data Science Process,Problem Statement,0,Problem statement is not mentioned anywhere,"Uploaded my presentation which includes Problem Statements along with ReadMe - How should houses be appropriately priced?
+-What features are most important to a house’s value?
+-What models can be used to set up best chance for profitability for realtors?"
+,Data Cleaning and EDA,0,"(-) I don't see any data cleaning in your work
+(-) Not much EDA; hard to understand what you're doing wrt EDA
+(+) Looking for outliers by zscore is good
+","Did Data Cleaning in notebook, went back and labeled and Did more
+-for EDA got correlations of features and ran multiple interaction terms until I got the best ones"
+,Preprocessing and Modeling,0.5,Does not meet minimum requirements,"Imputed values
+-Created dummy variables"
+,Evaluation and Conceptual Understanding,0.5,"Generally, there is not any explanation in your notebook and nothing else in the repo to demonstrate understanding.",went back and commented out lines to show where I was evaluating
+,Conclusion and Recommendations,0,Conclusions and Recommendations not mentioned anywhere,All now included in Presentation 
+Organization and Professionalism,Project Organization,0.5,Missing README; presentation is missing from your repo,Added both
+,Visualizations,1,"Bare minimum; you have some visualizations, but they're not really well thought out and there's no explanation or analysis of what you're visualizing",Updated visualizations with X and Y axis and added in notes to show thought process and workflow
+,Python Syntax and Control Flow,0.5,"Lots of random stuff, not really clear what you're trying to do. Not displaying an understanding of tools taught in class.",Added comment lines for everything
+,Presentation,2,"   • Great opener – nice confidence; good outline and context for presentation
+   • Overall nice slides – well put together, just the right amount of information
+   • Generally don’t talk about data cleaning; not interesting
+   • explanation of correlation..ok not great; neglecting negative correlation
+   • including ID as feature – you circled back to data dictionary, but you should START with a thorough reading of data dictionary
+   • wrong interpretation of y-intercept
+   • Recommendations section was good – tied together nicely
+   • owned mistake – that’s good
+",N/A
+General Feedback,,n/a,Project is unfinished,
