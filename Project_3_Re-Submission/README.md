@@ -40,8 +40,8 @@ The following packages were imported to conduct this analysis.
 |                |            |                |              |            |                |
 |----------------|------------|----------------|--------------|------------|--------------- |
 | Pandas         | Matplotlib | Scipy          | Sklearn      | Numpy      | TFIDVectorizer |
-| Beautiful Soup | Logistic   | CountVectorizer| GridSearchCV | Statsmodel | Pipeline       |
-                   Regression
+| Beautiful Soup | Log-Ref    | CountVectorizer| GridSearchCV | Statsmodel | Pipeline       |
+                   
 
 
 ## 3. Key Takeaways
