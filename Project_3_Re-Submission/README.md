@@ -7,9 +7,8 @@
 ## Table Of Contents
 [1. Problem Statement](#1.-Problem-Statement)<br>
 [2. Executive Summary](#2.-Tools-&-Methodology)<br>
-[3. Data Dictionary](#3.-Data-Dictionary)<br>
-[4. Key Takeways](#4.-Key-Takeaways)<br>
-[5. Next Steps](#5.-Next-Steps)<br>
+[3. Key Takeways](#4.-Key-Takeaways)<br>
+[4. Next Steps](#5.-Next-Steps)<br>
 
 ## 1. Problem Statement
 
