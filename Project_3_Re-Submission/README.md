@@ -3,17 +3,6 @@
 ## Project Authors
 | [Taylor Simpson](https://github.com/taylorjsimpson) |
 
-## Contents of Repo
-
-<!--ts-->
-* [Code](https://git.generalassemb.ly/cobkenney/Project_5/tree/master/code)
-  * [Data Collection & Data Aggregation](https://git.generalassemb.ly/cobkenney/Project_5/blob/master/code/Data_Collection_%26_Aggregration.ipynb)
-  * [Exploratory Data Analysis](https://git.generalassemb.ly/cobkenney/Project_5/blob/master/code/Exploratory_Data_Analysis.ipynb)
-  * [Initial Supervised Learning Model](https://git.generalassemb.ly/cobkenney/Project_5/blob/master/code/Initial_Supervised_Learning_Modeling.ipynb)
-  * [Additional Supervised Learning Model](https://git.generalassemb.ly/cobkenney/Project_5/blob/master/code/Additional_Supervised_Learning_Modeling.ipynb)
-  * [Unsupervised Learning Model](https://git.generalassemb.ly/cobkenney/Project_5/blob/master/code/Unsupervised_Learning_Modeling.ipynb)
-* [Data](https://git.generalassemb.ly/cobkenney/Project_5/tree/master/data)
-<!--te-->
 
 ## Table Of Contents
 [1. Problem Statement](#1.-Problem-Statement)<br>
